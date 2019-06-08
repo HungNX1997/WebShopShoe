@@ -15,7 +15,7 @@ namespace WebShopShoe.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "WebShopShoe";
+            ViewBag.Message = "WebShopShofdfde";
 
             return View();
         }
